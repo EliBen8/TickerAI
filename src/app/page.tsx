@@ -319,7 +319,7 @@ export default function StockAnalysisPage() {
                   <TrendingUp className="w-8 h-8 text-green-400" />
                 </div>
                 <h2 className="text-xl font-semibold text-white mb-2">
-                  Welcome to Stock Analysis AI
+                  Welcome to TickerAI
                 </h2>
                 <p className="text-gray-400 max-w-md mb-4">
                   Enter a stock ticker symbol (like AAPL, TSLA, or MSFT) to get a comprehensive analysis with
