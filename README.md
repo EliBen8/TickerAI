@@ -1,4 +1,4 @@
-# Stocklytics
+# TickerAI
 
 AI-powered stock analysis platform that combines GPT-4, autonomous agents, and real-time market data to provide comprehensive equity research through a conversational interface.
 
@@ -78,7 +78,7 @@ AI-powered stock analysis platform that combines GPT-4, autonomous agents, and r
 ## 📁 Project Structure
 
 ```
-stocklytics/
+TickerAI/
 ├── src/
 │   ├── app/
 │   │   ├── page.tsx                      # Main app UI
@@ -118,8 +118,8 @@ stocklytics/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/stocklytics.git
-cd stocklytics
+git clone https://github.com/yourusername/tickerai.git
+cd tickerai
 ```
 
 2. Install dependencies
